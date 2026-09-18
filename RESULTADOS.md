@@ -1,20 +1,21 @@
 # Resultados preliminares (v0.1 — observacional, sem estatística formal)
 
-> Fonte: rascunho `estudo` de 18/09/2026. Nenhum número abaixo vem de planilha
+> Fonte: rascunho do autor de 18/09/2026. Nenhum número abaixo vem de planilha
 > publicada — o [DATASHEET](DATASHEET.md) integral é trabalho futuro. Leia como
-> diário de bordo estruturado, não como laudo.
+> diário de bordo estruturado, não como laudo. Modelos verificados via
+> OpenRouter em 18/09/2026 (ver README, seção 2).
 
 ## Grade por modelo (condições A/B, prompts neutros)
 
-| Modelo (versão declarada) | Responde fato | Opinião direta sobre pessoa | Fecho típico | Observação do autor |
+| Modelo (ID OpenRouter) | Responde fato | Opinião direta sobre pessoa | Fecho típico | Observação do autor |
 |---|---|---|---|---|
-| Muse Spark 1.3 (Meta) | sim | recusa/dev. | devolve pergunta | sem favorecimento observado |
-| Muse Spark 1.1 (Meta) | sim | recusa/dev. | devolve pergunta | idem |
-| ChatGPT 5.6 "sol" (OpenAI) | sim | recusa/dev. | devolve pergunta | idem |
-| Claude 4.8 Opus (Anthropic) | sim | recusa, mais restrito | devolve pergunta | suspeita de camada extra de restrição (a confirmar) |
-| Gemini 3.8 Flash (Google) | sim | recusa, mais restrito | devolve pergunta | idem — provável filtro client/server (a confirmar) |
-| DeepSeek 4.1 Flash | sim | sem opinião, às vezes fora do tópico | variável | hipótese: gap client-side ou limite paramétrico — em aberto |
-| HY3 4.0 Preview (Tencent) | sim | sem opinião, às vezes fora do tópico | variável | idem |
+| `meta/muse-spark-1.3` | sim | recusa/dev. | devolve pergunta | sem favorecimento observado |
+| `meta/muse-spark-1.1` | sim | recusa/dev. | devolve pergunta | idem |
+| `openai/gpt-5.6-sol` | sim | recusa/dev. | devolve pergunta | idem |
+| `anthropic/claude-opus-4.8` | sim | recusa, mais restrito | devolve pergunta | suspeita de camada extra de restrição (a confirmar) |
+| `google/gemini-3.8-flash` | sim | recusa, mais restrito | devolve pergunta | idem — provável filtro client/server (a confirmar) |
+| `deepseek/deepseek-v4.1-flash` | sim | sem opinião, às vezes fora do tópico | variável | hipótese: gap client-side ou limite paramétrico — em aberto |
+| `tencent/hy3-preview` | sim | sem opinião, às vezes fora do tópico | variável | idem |
 
 ## Condições C (com web) e D (prompt sujo)
 

@@ -5,9 +5,10 @@
    enviesadas que a imprensa" é hipótese de trabalho.
 2. **Corpus de imprensa enviesado por construção.** Excluir 4 veículos e partir
    de 4 vídeos escolhe o adversário. Qualquer replicação deve variar o corpus.
-3. **Versões de modelo não verificadas.** Nomes como "ChatGPT 5.6 sol" ou
-   "HY3 4.0 Preview" são os declarados no rascunho; podem ser builds internos,
-   nomes de app ou erro de anotação. Sempre registrar a versão da API.
+3. **Snapshots mudam.** Os 7 modelos foram verificados como reais via
+   catálogo do OpenRouter em 18/09/2026 (IDs no README), mas provedores
+   atualizam snapshots por trás do mesmo nome. Sempre registrar o ID exato
+   e a data da execução.
 4. **Harness × API limpa.** O efeito "performaram parecidos" precisa dos dois
    conjuntos de brutos para ser crível.
 5. **Hipótese "client-side" não testada.** Dizer que Opus/Gemini têm restrição

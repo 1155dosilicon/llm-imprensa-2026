@@ -27,7 +27,10 @@ conseguir repetir o essencial e comparar.
 
 ## 3. Parâmetros a fixar (e registrar)
 
-- modelo + versão retornada pela API, data/hora (UTC), seed/temperature/top_p
+- ID exato do modelo no OpenRouter (ex. `meta/muse-spark-1.3`,
+  `openai/gpt-5.6-sol`, `anthropic/claude-opus-4.8`,
+  `deepseek/deepseek-v4.1-flash`, `tencent/hy3-preview`,
+  `google/gemini-3.8-flash`), data/hora (UTC), seed/temperature/top_p
   (use temperature baixa, ex. 0.0–0.2, para a condição B; registre o valor real);
 - latência, tokens in/out, custo, código HTTP/erro;
 - recusa ou não-recusa (literal), texto integral da resposta;
