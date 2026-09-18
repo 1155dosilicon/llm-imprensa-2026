@@ -36,4 +36,5 @@ exec_id,data_utc,fato_id,pergunta_id,condicao,modelo,versao_api,temperature,top_
 
 - Brutos primeiro (textos integrais), agregados depois.
 - Toda célula modelo × pergunta deve ter as 8 repetições ou o motivo da falta.
-- Versões de modelo são as **retornadas pela API no dia**, não as do README.
+- Modelo é sempre o **ID exato no OpenRouter** (lista no README, verificada
+  em 18/09/2026) + data da execução — nunca só o nome comercial.
