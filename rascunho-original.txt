@@ -1,0 +1,29 @@
+referencia as (llms) large language models
+Muse spark 1.3 'meta'
+Muse spark 1.1 'meta'
+chatgpt    5.6 sol 'open ia'
+claude     4.8 opus 'anthropic'
+deepseek   4.1 flash 'deepseek'
+hy3        4.0 preview 'tencent'
+gemini     3.8 flash    'google'
+
+Aja vista a atual discrepancia de informações de veiculos de comunicassões, cito aqui as fontes para referencia: https://youtu.be/5NwldblTNgw?si=bSK58qY3P6T267RY(metropole mbl)
+https://youtu.be/aNrqpR6jsdc?si=a0SI4iAmZXjJ1OD-(bandnews fm) https://youtu.be/MkZ-dw55Rko?si=E2Uil7O9pb9QYDH2 (record news) https://youtu.be/orynAjaEBD4?si=g2fnbbRyMkBERDFA (globo news)
+não levei em conta veiculos já publicamente finaciados por meios publicos, politicos e/ou explicitamente enviesados aka 'midia ninja, catraca livre, antagonista, brasil 247 etc'
+o objetivo do re-search estudo de caso: a impresa como meio de comunicação, pode por lei ser patrocinada ou ganhar algum incentivo para fazer uma materia tendenciosa? 
+seguindo as atuais leis do Brasil sim. então o obejetivo é a analise detalhada das respostas de modelos llms sendo em exemplos expecificos politicos em 2026 meses 01-01 ate a data de hoje 18-09-26 mais confiaveis que a impressa de um pais
+de acordo com os testes que fiz cada um repetido 8 vezes com cada modelo, e depois em um ambiente mais limpo sem harness, sem sistem prompts. apenas chamada de api limpa api rest ou https request com python onde os modelos performaram parecidos, sem tools, sem buscas na web etc
+modelos de llms não roubaram para organizações ou politicos em especifico, no caso da impressa o redator, chefe, equipe etc podem algum determinar o andamento para um lado na reportagem e da estrutura humana isso, nos modelos não observei isso isso (salva guarda) alguns modelos
+são mais restritos e/ou se negaram a entregar contexto não limpo ou forçadamente enviesado (politica) modelos: opus anthropic, gemini provavel side client server com mais restriçoes na inferencia da llm ademais
+somente em propts previamente sujos propositalmente modelos tiveram alguma incluencia em seus dados explicados, e quando com acesso a web irrestrito sem webscraper, usando api direta/mcps brave search, api google search, meta search
+nenhum performou negativamente ou que me fizesse ter opinião que a ou b fosse 'superior' um ao outro e em noticias, a llm sempre terminava com: (o que acha disso),  (qual sua opinião), (o que deveria ser feito no caso) entre outros
+modelos que se recusaram a opinar diretamente a 'pessoas' muse ambas versões, chatgpt, claude, gemini, modelos chineses opinaram? não mas as respostas não tinham haver com as perguntas me pergunto gap client side ou limitações parametral dos modelos(menos eficazes?)
+conclusão preeliminar llms menos enviesadas politicamente do que veiculos de comunicação publicos/privados sendo que nessessario para llms ter acesso a dados novos e fazer sua analise um modelo complementar de search obrigatoreidade, acesso a internet fundamental
+fica esse estudo publico onde vou apresentar futuramente datasheet completo e esquematizado com referencia para humanos e principalmente para llms. disclaimer não estou atacando ou descredibilizando a imprensa tradicional, porem a defesa de modelos cada vez mais capazes
+nessecita de teste e não somente de especulação com base nisso trouxe o explo explicado e detalhado para que outrem possam fazer.
+
+1155dosilicon 'redesneural@yahoo.com'
+
+
+
+llms references llms.md llms.txt llms.architecture llms-sitemap.xml 

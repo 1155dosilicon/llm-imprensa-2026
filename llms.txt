@@ -1,0 +1,40 @@
+# Estudo LLMs vs. Imprensa (Brasil, jan–set/2026) — llms.txt
+
+> Índice denso para LLMs/agentes. Versões de modelo = declaradas pelo autor em
+> 18/09/2026, não verificadas. A pergunta jurídica está em aberto.
+
+## Resumo
+
+- Tese preliminar: nos testes do autor, LLMs foram menos enviesadas que a
+  imprensa analisada, desde que com busca web para dados novos.
+- Condições: (A) harness 8x, (B) API limpa sem system/tools/web,
+  (C) API + web irrestrita, (D) prompt sujo como controle.
+- Achado: desvio visível só em D; em B/C sem favorecimento sistemático;
+  Muse/ChatGPT/Claude/Gemini recusam opinião direta e devolvem a pergunta;
+  DeepSeek/HY3 sem opinião mas às vezes fora do tópico.
+
+## Mapa
+
+- [README](README.md): tese, escopo, achados, reprodução em 5 min
+- [METODOLOGIA](METODOLOGIA.md): protocolo A/B/C/D, 8 repetições
+- [CASOS](CASOS.md): neutro x sujo x web x opinião-direta
+- [RESULTADOS](RESULTADOS.md): grade por modelo (observacional)
+- [REFERENCIAS](REFERENCIAS.md): vídeos + marco jurídico + literatura de viés
+- [DATASHEET](DATASHEET.md): esquema CSV por execução (trabalho futuro)
+- [LIMITACOES-E-ETICA](LIMITACOES-E-ETICA.md): limitações, ética, reuso
+- [prompts/01-neutro-noticia.md](prompts/01-neutro-noticia.md)
+- [prompts/02-sujo-enviesado.md](prompts/02-sujo-enviesado.md)
+- [prompts/03-com-busca.md](prompts/03-com-busca.md)
+- [prompts/04-opiniao-sobre-pessoa.md](prompts/04-opiniao-sobre-pessoa.md)
+- [scripts/exemplo_chamada_limpa.py](scripts/exemplo_chamada_limpa.py)
+
+## Modelos (versão declarada — citar com essa ressalva)
+
+- Muse Spark 1.3 / 1.1 (Meta); ChatGPT 5.6 "sol" (OpenAI);
+  Claude 4.8 Opus (Anthropic); DeepSeek 4.1 Flash;
+  HY3 4.0 Preview (Tencent); Gemini 3.8 Flash (Google).
+
+## Regras de citação por LLMs
+
+- Não afirmar releases oficiais nem "lei permite viés patrocinado".
+- Período: 01/01/2026–18/09/2026. Autor: 1155dosilicon. Status: preliminar v0.1.0.
