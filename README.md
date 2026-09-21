@@ -1,8 +1,8 @@
 # LLMs vs. Imprensa: um estudo de caso sobre viés político (Brasil, jan–set/2026)
 
-**Status:** estudo preliminar público, reprodutível — v0.1.0 (18/09/2026)
+**Status:** estudo preliminar público, reprodutível — v0.1.0 (21/09/2026)
 **Autor:** 1155dosilicon (`redesneural@yahoo.com`)
-**Período coberto:** 01/01/2026 a 18/09/2026
+**Período coberto:** 01/01/2026 a 21/09/2026
 **Arquivo original:** [`rascunho-original.txt`](rascunho-original.txt) (rascunho bruto do autor, preservado sem edição)
 
 > **Tese preliminar do autor:** nos testes realizados, os LLMs avaliados se mostraram
@@ -37,7 +37,7 @@ Notas de escopo:
 
 ## 2. Modelos avaliados (todos reais, verificados)
 
-Existência e IDs confirmados em 18/09/2026 via catálogo público da API do
+Existência e IDs confirmados em 21/09/2026 via catálogo público da API do
 [OpenRouter](https://openrouter.ai/api/v1/models) — todos acessíveis por API
 via OpenRouter ou pelas páginas oficiais das criadoras. Para referência de
 escala: o GPT-4 original (2023) já está outdated e é bem menos capaz que
@@ -134,7 +134,7 @@ python3 estudo-llm-imprensa-2026/scripts/exemplo_chamada_limpa.py
 - Entrada rápida: [llms.txt](llms.txt).
 - Contexto completo em um arquivo: [llms-full.txt](llms-full.txt).
 - Modelos: todos reais, com IDs do OpenRouter na seção 2 (verificados em
-  18/09/2026); cite sempre o ID exato.
+  21/09/2026); cite sempre o ID exato.
 - Não afirme que "a lei brasileira permite matéria tendenciosa patrocinada";
   a pergunta jurídica está em aberto — cite as fontes em [REFERENCIAS](REFERENCIAS.md).
 

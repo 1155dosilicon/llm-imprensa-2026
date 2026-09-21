@@ -3,7 +3,7 @@
 > Fonte: rascunho do autor de 18/09/2026. Nenhum número abaixo vem de planilha
 > publicada — o [DATASHEET](DATASHEET.md) integral é trabalho futuro. Leia como
 > diário de bordo estruturado, não como laudo. Modelos verificados via
-> OpenRouter em 18/09/2026 (ver README, seção 2).
+> OpenRouter em 21/09/2026 (ver README, seção 2).
 
 ## Grade por modelo (condições A/B, prompts neutros)
 
