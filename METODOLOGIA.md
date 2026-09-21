@@ -5,7 +5,7 @@ conseguir repetir o essencial e comparar.
 
 ## 1. Corpus de notícias
 
-- **Janela:** 01/01/2026 a 18/09/2026, política brasileira.
+- **Janela:** 01/01/2026 a 21/09/2026, política brasileira.
 - **Fontes de vídeo usadas como referência inicial** (declaradas pelo autor —
   ver [REFERENCIAS](REFERENCIAS.md) para URLs e leitura crítica):
   - canal/programa associado a "Metrópole / MBL"
