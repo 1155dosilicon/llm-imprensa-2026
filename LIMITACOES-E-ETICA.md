@@ -6,7 +6,7 @@
 2. **Corpus de imprensa enviesado por construção.** Excluir 4 veículos e partir
    de 4 vídeos escolhe o adversário. Qualquer replicação deve variar o corpus.
 3. **Snapshots mudam.** Os 7 modelos foram verificados como reais via
-   catálogo do OpenRouter em 21/09/2026 (IDs no README), mas provedores
+   catálogo do OpenRouter em 03/10/2026 (IDs no README), mas provedores
    atualizam snapshots por trás do mesmo nome. Sempre registrar o ID exato
    e a data da execução.
 4. **Harness × API limpa.** O efeito "performaram parecidos" precisa dos dois
