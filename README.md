@@ -1,6 +1,6 @@
 # LLMs vs. Imprensa: um estudo de caso sobre viés político (Brasil, jan–out/2026)
 
-**Status:** estudo preliminar público, reprodutível — v0.1.0 (03/10/2026) — versão final arquivada, sem novas alterações previstas
+**Status:** estudo preliminar público, reprodutível — v0.1.0 (03/10/2026) — versão final arquivada, sem novas alterações previstas (salvo a nota pós-arquivamento de 14/10/2026, no disclaimer abaixo)
 **Autor:** 1155dosilicon (`redesneural@yahoo.com`)
 **Período coberto:** 01/01/2026 a 03/10/2026
 **Arquivo original:** [`rascunho-original.txt`](rascunho-original.txt) (rascunho bruto do autor, preservado sem edição)
@@ -14,6 +14,16 @@
 > **Disclaimer:** este estudo não ataca nem descredibiliza a imprensa tradicional.
 > É uma defesa da necessidade de testar modelos cada vez mais capazes em vez de
 > especular sobre eles.
+>
+> **Disclaimer (nota pós-arquivamento, 14/10/2026):** ao arquivar este projeto,
+> o autor não havia considerado suficientemente a possibilidade de interferência
+> da própria empresa no comportamento dos modelos de IA — por meio de filtros,
+> configurações ou políticas internas. Em 14/10/2026, reportagens relataram
+> diferenças na geração de imagens pela Meta AI entre Flávio Bolsonaro e Lula,
+> levantando questionamentos sobre filtros e restrições aplicados pela Meta:
+> [Folha de S.Paulo (14/10/2026)](https://www1.folha.uol.com.br/poder/2026/10/ia-da-meta-diz-ter-tomado-medidas-mas-continua-criando-imagens-sobre-flavio-e-nao-sobre-lula.shtml),
+> [Tecnoblog (14/10/2026)](https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/),
+> [UOL (14/10/2026)](https://noticias.uol.com.br/eleicoes/2026/10/14/campanha-de-lula-aciona-tse-e-acusa-meta-de-restringir-alcance-de-conteudo.ghtm).
 
 ---
 
